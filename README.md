@@ -8,3 +8,11 @@
 خلاصه که اینو برای افراد تازه کار نوشتم توش توضیح هم هست 
 
 ممنون از شما 
+
+
+![image](https://github.com/PMprogrammer/cal-by-c-/assets/95670771/606fae8a-d414-4184-9c06-70e6cf8cb454)
+
+
+
+
+![image](https://github.com/PMprogrammer/cal-by-c-/assets/95670771/87539b69-8586-4528-a79e-ae84a8fa7614)
